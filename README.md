@@ -8,7 +8,7 @@ An cross platform application that I built as homework for programming paradigms
 
 ### Installation
 
-- `git clone https://github.com/justman00/react-native-quiz`
+- `git clone https://github.com/justman00/react-native-quiz-app`
 - `yarn install`/`npm install`
 
 ### Running

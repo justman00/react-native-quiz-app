@@ -10,22 +10,22 @@ export default ({ navigation }) => (
   <ScrollView>
     <StatusBar barStyle="dark-content" />
     <RowItem
-      name="Space"
+      name="Spatiu"
       color="#36b1f0"
       onPress={() =>
         navigation.navigate('Quiz', {
-          title: 'Space',
+          title: 'Spatiu',
           questions: spaceQuestions,
           color: '#36b1f0',
         })
       }
     />
     <RowItem
-      name="Computers"
+      name="Calculatoare"
       color="#49475B"
       onPress={() =>
         navigation.navigate('Quiz', {
-          title: 'Computers',
+          title: 'Calculatoare',
           questions: computerQuestions,
           color: '#49475B',
         })
