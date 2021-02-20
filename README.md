@@ -2,9 +2,7 @@
 
 An cross platform application that I built as homework for programming paradigms subject.
 
-![Index Screen](./assets/index.png)
-![Quiz Screen](./assets/quizz.png)
-![Success Screen](./assets/success.png)
+![Index Screen](./assets/index.png) ![Quiz Screen](./assets/quizz.png) ![Success Screen](./assets/success.png)
 
 ### Installation
 
